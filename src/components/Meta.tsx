@@ -34,6 +34,7 @@ export function Meta({ title, description, imageUrl, timestamp }: MetaProps) {
         key="keywords"
         content="Decentralized Finance, DeFi, lending, borrowing, stablecoins, Ethereum, assets, erc-20, smart contracts, open finance, trustless"
       />
+      <meta name="theme-color" content="#232330" />
     </Head>
   );
 }
